@@ -1,6 +1,6 @@
 # This is a Project Title
 
-One Paragraph of project description goes here
+One Paragraph of project description goes here, or not
 
 ## Getting Started
 
